@@ -1,4 +1,4 @@
-# 🌌 NeuroFlow AI — Premium Landing Page
+# 🌌 NeuroFlow AI 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/DivyanshGahlaut/neuroflow-ai-landing-page/main/landing_page_top.png" alt="NeuroFlow AI Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
