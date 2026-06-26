@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code config
+.vscode/
+
+# Local server / environment logs
+*.log
+.tempmediaStorage/
+node_modules/
